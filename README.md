@@ -1,6 +1,7 @@
 # spotifygenreclassifier
 Given a playlist URI, the genres of the songs in it are predicted.
 
+# Summary
 Using the Spotify API, get your client ID and client secret. Go to https://developer.spotify.com/documentation/web-api/ to do that.
 A training dataframe has to be built so multiple spotify playlists with predefined genres are considered, and to the created dataframe, an extra column called 'genre' is added.
 All the dataframes made are combined into a single one, and standardized. X and y are created and split into testing and training data. Different prediction models are applied
