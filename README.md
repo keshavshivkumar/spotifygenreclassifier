@@ -10,3 +10,4 @@ It didn't make much of a difference. Bagging or boosting can make a better impac
 for a given playlist.
 
 ## Playlist in this instance:
+![image](https://user-images.githubusercontent.com/57229722/105469926-f04c3580-5cbe-11eb-94cf-4a7483c53ef9.png)
