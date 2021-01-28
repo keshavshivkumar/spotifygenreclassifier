@@ -13,5 +13,4 @@ for a given playlist.
 https://open.spotify.com/user/kazu8l2llhpll0uobr3wmdt5f/playlist/3aFp6OcR1rukcTX0A8ppxe?si=whfMK89nR6ytz0xRcq8jVQ
 
 ## Takeaway:
-Songs don't commit to a single genre so with a basic method that this project does, the accuracy won't be great. There is some area of improvement however, perhaps by considering 
-a certain condition such as the genre of the artist itself, or by using bagging/boosting as mentioned earlier.
+Songs don't commit to a single genre so with the basic method that this project does, the accuracy won't be great. There is some area of improvement however, perhaps by considering a certain condition such as the genre of the artist itself, or by using bagging/boosting as mentioned earlier.
