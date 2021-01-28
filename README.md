@@ -10,7 +10,7 @@ It didn't make much of a difference. Bagging or boosting can make a better impac
 for a given playlist.
 
 ## Playlist in this instance:
-![image](https://user-images.githubusercontent.com/57229722/105469926-f04c3580-5cbe-11eb-94cf-4a7483c53ef9.png)
+https://open.spotify.com/user/kazu8l2llhpll0uobr3wmdt5f/playlist/3aFp6OcR1rukcTX0A8ppxe?si=whfMK89nR6ytz0xRcq8jVQ
 
 ## Takeaway:
 Songs don't commit to a single genre so with a basic method that this project does, the accuracy won't be great. There is some area of improvement however, perhaps by considering 
