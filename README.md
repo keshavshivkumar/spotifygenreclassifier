@@ -13,5 +13,9 @@ for a given playlist.
 https://open.spotify.com/user/kazu8l2llhpll0uobr3wmdt5f/playlist/3aFp6OcR1rukcTX0A8ppxe?si=whfMK89nR6ytz0xRcq8jVQ
 ![image](https://user-images.githubusercontent.com/57229722/106105386-ef594f00-6169-11eb-971d-7fa728234d5b.png)
 
+## Results:
+![image](https://user-images.githubusercontent.com/57229722/126142504-d50eda18-a6ab-4b55-9368-e7e6443d7fb0.png)
+
 ## Takeaway:
-Songs don't commit to a single genre so with the basic method that this project does, the accuracy won't be great. There is some area of improvement however, perhaps by considering a certain condition such as the genre of the artist itself, or by using bagging/boosting as mentioned earlier.
+Songs don't commit to a single genre so with the basic method that this project does, the accuracy won't be great. There is some area of improvement however, perhaps by using bagging/boosting as mentioned earlier, or by bringing in the tensorflow library. 
+Hopefully something I will work on in the future.
